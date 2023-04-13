@@ -1,0 +1,17 @@
+[
+    {
+        "adress": "123 Main St",
+        "age": 30,
+        "name": "Jhon"
+    },
+    {
+        "adress": "456 Oak Ave",
+        "age": 25,
+        "name": "Jane"
+    },
+    {
+        "adress": "789 Maple St",
+        "age": 40,
+        "name": "Bob"
+    }
+]
